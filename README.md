@@ -1,4 +1,4 @@
-## machine Learning mastery:
+## Machine Learning mastery:
 
 https://machinelearningmastery.com/start-here/
 
