@@ -6,6 +6,10 @@ https://machinelearningmastery.com/feature-selection-machine-learning-python/
 ## Good Machine learning Course
 http://www.cs.nthu.edu.tw/~shwu/courses/ml/
 
+##Comparative Study on Classic Machine learning Algorithms
+
+https://towardsdatascience.com/comparative-study-on-classic-machine-learning-algorithms-24f9ff6ab222
+
 
 ##curse of dimensionality
 
