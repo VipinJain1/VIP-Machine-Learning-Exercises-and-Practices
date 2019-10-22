@@ -17,3 +17,6 @@ Wiki link - https://en.wikipedia.org/wiki/Curse_of_dimensionalit
 https://soundcloud.com/applied-ai-course/email-fast-ai-blog/s-bAKiR
 
 
+##FAQ:
+
+https://sebastianraschka.com/faq/docs/scale-training-test.html
